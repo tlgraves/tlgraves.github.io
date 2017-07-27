@@ -1,2 +1,4 @@
 name: Personal Website of T. L. Graves
 markdown: kramdown
+
+theme: jekyll-theme-minimal
